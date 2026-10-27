@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
 
 const API_URL = "https://picsum.photos/v2/list?limit=30";
 

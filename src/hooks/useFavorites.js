@@ -1,4 +1,4 @@
-import { useEffect, useReducer } from "react";
+import { useEffect, useReducer } from 'react';
 
 const STORAGE_KEY = "celebrare-favorites";
 
